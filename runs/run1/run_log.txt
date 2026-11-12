@@ -1,0 +1,3 @@
+{"status": "ok", "ful_count": 20, "new_rows": 17, "repeats": 2, "attention": 7, "output": "/mnt/data/logistics_agent_project/runs/run1/result.xlsx"}
+
+elapsed_seconds=4.924931
